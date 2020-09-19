@@ -1,0 +1,47 @@
+
+.red{
+    font-weight: bold;
+    background-color: rgb(239, 23, 23);
+    font-size: 1.2em;
+  }
+  li {
+    margin-bottom: 5px;
+    font-size: 1.2em;
+  }
+  li > button {
+    background-color: rgb(239, 23, 23);
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 20%;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  div {float: left;
+    background: rgb(220, 220, 220);
+  font-size: 20px;
+  padding: 20px;
+  text-align: left;
+  font-weight: bold
+  }
+  
+  .bor{ background: rgb(220, 220, 220);
+  border: 2px solid black;
+  }
+ 
+  
+  .green{
+    font-weight: bold;
+    background-color: rgb(120, 201, 20);
+    font-size: 1.2em;
+  }
+
+  .bg{ background: rgb(220, 220, 220);
+    
+    }
+   
